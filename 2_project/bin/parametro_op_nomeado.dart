@@ -6,7 +6,7 @@ class Pessoa {
   String? filme;
   String? serie;
 
-// Parâmetros Opcionais Posicional
+// Parâmetros Opcionais Posicionais
   Pessoa(this.nome, this.idade, this.altura,
       [this.hobby, this.filme, this.serie]);
 
