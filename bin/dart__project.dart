@@ -4,6 +4,8 @@ class Banda {
   int? ano;
   int? albuns;
 
+  Banda(this.nome, this.genero, this.ano, this.albuns);
+
   void musica() {
     print(
         "Os meus 3 álbuns favoritos da banda $nome são: \"Scream Bloody Gore\", \"Leprosy\" e \"Symbolic\".");
@@ -13,12 +15,7 @@ class Banda {
 }
 
 void main() {
-  Banda banda = Banda();
-
-  banda.nome = "Death";
-  banda.genero = "Technical Death Metal";
-  banda.ano = 1983;
-  banda.albuns = 7;
+  Banda banda = Banda("Death", "Technical Death Metal", 1983, 7);
 
   banda.musica();
 }
