@@ -6,9 +6,9 @@ class Pessoa {
   String? filme;
   String? serie;
 
-// Parâmetros Opcionais Nomeados
+// Parâmetros Opcionais Posicional
   Pessoa(this.nome, this.idade, this.altura,
-      {this.hobby, this.filme, this.serie});
+      [this.hobby, this.filme, this.serie]);
 
 // Construtor nomeado
   Pessoa.niver(this.nome, this.idade);
@@ -24,10 +24,8 @@ class Pessoa {
 }
 
 void main() {
-  Pessoa pessoa1 = Pessoa("Gabrielle", 24, 1.74,
-      hobby: "escrever",
-      filme: "trilogia do \"O Senhor dos Anéis\"",
-      serie: "\"The Office\".\n");
+  Pessoa pessoa1 = Pessoa("Gabrielle", 24, 1.74, "escrever",
+      "trilogia do \"O Senhor dos Anéis\"", "\"The Office\".\n");
 
   pessoa1.apresentar();
 
