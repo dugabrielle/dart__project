@@ -3,5 +3,7 @@
 
 #### <li>No primeiro projeto eu explorei o uso da classe, do atributo, do método e do construtor, declarando "?" após o nome do tipo para valores nulos. O código gera um print() de uma breve descrição da minha banda favorita.
 #### 🔎 Saiba mais: [Null Safety](https://dart.dev/null-safety#:~:text=The%20Dart%20language%20enforces%20sound,can%20be%20difficult%20to%20debug)
-#### <li>No segundo projeto eu declarei parâmetros opcionais posicionais e defini um construtor nomeado para tornar o código mais legível.
+#### <li>Declaração de parâmetros opcionais posicionais e construtor nomeado para tornar o código mais legível.
 #### 🔎 Saiba mais: [Constructors](https://dart.dev/language/constructors) | [Functions/Parameters](https://dart.dev/language/functions)
+#### <li>Brincando com The Office: Utilzação do get para obter o valor das propriedades privadas da Class "Employee" e do set para atualizá-las.
+#### 🔎 Saiba mais: [Documentation - Get and Set](https://dart.dev/effective-dart/documentation)
