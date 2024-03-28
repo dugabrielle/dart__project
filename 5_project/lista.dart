@@ -64,10 +64,10 @@ void main() {
 
 // A lista está vazia!
 
-//Nome: Leela 
-//Espécie: Humana/Mutante
+// Nome: Leela 
+// Espécie: Humana/Mutante
 
-//Nome: Bender 
-//Espécie: Robô
+// Nome: Bender 
+// Espécie: Robô
 
 
