@@ -41,10 +41,10 @@ void main() {
 
   // **********
 
-  var users = <Futurama>[
+  var futurama = <Futurama>[
     Futurama("\nNome: Leela", "\nEspécie: Humana/Mutante\n"),
     Futurama("Nome: Bender", "\nEspécie: Robô")
   ];
 
-  users.forEach((u) => print('$u'));
+  futurama.forEach((u) => print('$u'));
 }
