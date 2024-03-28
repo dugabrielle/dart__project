@@ -51,3 +51,23 @@ void main() {
 
   futurama.forEach((u) => print('$u'));
 }
+
+// Saída
+
+// Jake
+// [Finn, Jake, Jujuba, Marceline, Princesa Caroço]
+// 5
+// [Finn, Jake, Jujuba, Marceline, BMO, Princesa Caroço]
+// false
+// [BMO, Finn, Jake, Jujuba, Marceline, Princesa Caroço]
+// [Marceline, Princesa Caroço, Jujuba, BMO, Jake, Finn]
+
+// A lista está vazia!
+
+//Nome: Leela 
+//Espécie: Humana/Mutante
+
+//Nome: Bender 
+//Espécie: Robô
+
+
