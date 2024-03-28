@@ -9,3 +9,5 @@
 #### 🔎 Saiba mais: [Documentation - Get and Set](https://dart.dev/effective-dart/documentation)
 #### <li>4º projeto: As classes "Estudante1" e "Estudante2" herdam as propriedades da classe "Estudantes" afim de facilitar e diminuir o código, além de ambas as classes também possuírem métodos específicos para cada uma. Também foi adicionado o "@override" (opcional) que marca um membro da instância como substituindo um membro da superclasse com o mesmo nome. 
 #### 🔎 Saiba mais: [Classes](https://dart.dev/language/classes)
+#### <li>5º projeto: Criação de listas utilizando métodos e o loop forEach para percorrer a lista futurama.
+#### 🔎 Saiba mais: [Collections](https://dart.dev/language/classes)
