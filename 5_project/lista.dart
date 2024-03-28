@@ -25,6 +25,9 @@ void main() {
   personagens.sort();
   print(personagens);
 
+  personagens.shuffle();
+  print("$personagens");
+
   // **********
 
   List<int> valores = [];
