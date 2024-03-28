@@ -25,7 +25,21 @@ void main() {
   personagens.sort();
   print(personagens);
 
-  // class Futurama
+  // **********
+
+  List<int> valores = [];
+
+  // valores.add(5);
+  // valores.add(10);
+  // valores.add(15);
+
+  if (valores.isEmpty) {
+    print("A lista está vazia!");
+  } else {
+    print("A lista não está vazia!");
+  }
+
+  // **********
 
   var users = <Futurama>[
     Futurama("\nNome: Leela", "\nEspécie: Humana/Mutante\n"),
