@@ -46,3 +46,9 @@ void main() {
 
   est2.area();
 }
+
+// Minha linguagem favorita é "Go" e estou cursando Segurança da Informação no 3º semestre.
+// Estudando outras tecnologias (true/false)? true!!!
+
+// Minha linguagem favorita é "Dart" e estou cursando Análise e Desenvolvimento de Sistemas no 3º semestre.
+// Eu gosto mais de Front-end!!!
