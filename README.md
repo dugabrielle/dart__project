@@ -7,3 +7,5 @@
 #### 🔎 Saiba mais: [Constructors](https://dart.dev/language/constructors) | [Functions/Parameters](https://dart.dev/language/functions)
 #### <li>Brincando com The Office no 3° projeto: Utilzação do get para obter o valor das propriedades privadas da Class "Employee" e do set para atualizá-las.
 #### 🔎 Saiba mais: [Documentation - Get and Set](https://dart.dev/effective-dart/documentation)
+#### <li>4º projeto: As classes "Estudante1" e "Estudante2" herdam as propriedades da classe "Estudantes" afim de facilitar e diminuir o código, além de ambas as classes também possuírem métodos específicos para cada uma. 
+#### 🔎 Saiba mais: [Classes](https://dart.dev/language/classes)
