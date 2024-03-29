@@ -7,15 +7,16 @@ void main() {
 
   print(ddd);
 
-  Map<String, dynamic> produto = Map();
+  Map<String, dynamic> produto = {
+    "Nome": "Refrigerante 350ml",
+    "Quantidade": 5,
+    "Total": 22.50
+  };
 
-  produto["Nome"] = "Refrigerante 350ml";
-  produto["Quantidade"] = 5;
-  produto["Total"] = 22.50;
-
-  produto.forEach((k, v) => print('${k}: ${v}'));
-
+  print(produto);
   print(produto.length);
   print(produto.values);
   print(produto.keys);
+
+  produto.forEach((k, v) => print('${k}: ${v}'));
 }
