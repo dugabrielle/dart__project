@@ -19,4 +19,12 @@ void main() {
   print(produto.keys);
 
   produto.forEach((k, v) => print('${k}: ${v}'));
+
+  var planetas = {
+    "primeiro": "saturno",
+    "segundo": "netuno",
+    "terceiro": "terra"
+  };
+
+  print(planetas);
 }
