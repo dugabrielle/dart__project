@@ -11,3 +11,6 @@
 #### 🔎 Saiba mais: [Classes](https://dart.dev/language/classes)
 #### <li>5º projeto: Criação de listas utilizando métodos e o loop forEach para percorrer a lista futurama.
 #### 🔎 Saiba mais: [Collections](https://dart.dev/language/classes)
+#### <li>6º projeto: Criação de mapas que diferente das listas, possuem um par de chave-valor, sendo que a chave deve ser única.
+#### 🔎 Saiba mais: [Collections](https://dart.dev/language/classes)
+
