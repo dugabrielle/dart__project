@@ -14,4 +14,4 @@
 #### <li>6º projeto: Criação de mapas que diferente das listas, possuem um par de chave-valor, sendo que a chave deve ser única.
 #### <li>7º projeto: Programa que gerencia e imprime as notas dos alunos em diferentes matérias. A lista define os alunos e o Map armazena as notas de cada matéria, seguidas da situação de aprovação ou reprovação.
 #### <li>8º projeto: Uso de enum para organizar tipos fixos de matérias com seus salários associados. Três professores são instanciados com diferentes matérias e o método verificar() detalha cada professor usando um bloco de switch case para exibir nome, matéria e salário.
-#### 🔎 Saiba mais: [Enums](https://dart.dev/language/enums))
+#### 🔎 Saiba mais: [Enums](https://dart.dev/language/enums)
