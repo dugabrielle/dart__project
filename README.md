@@ -6,12 +6,12 @@
 #### <li>2° projeto: Declaração de parâmetros opcionais posicionais e construtor nomeado para tornar o código mais legível.
 #### 🔎 Saiba mais: [Constructors](https://dart.dev/language/constructors) | [Functions/Parameters](https://dart.dev/language/functions)
 #### <li>Brincando com The Office no 3° projeto: Utilzação do get para obter o valor das propriedades privadas da Class "Employee" e do set para atualizá-las.
-#### 🔎 Saiba mais: [Documentation - Get and Set](https://dart.dev/effective-dart/documentation)
+#### 🔎 Saiba mais: [Get and Set](https://dart.dev/effective-dart/documentation)
 #### <li>4º projeto: As classes "Estudante1" e "Estudante2" herdam as propriedades da classe "Estudantes" afim de facilitar e diminuir o código, além de ambas as classes também possuírem métodos específicos para cada uma. Também foi adicionado o "@override" (opcional) que marca um membro da instância como substituindo um membro da superclasse com o mesmo nome. 
 #### 🔎 Saiba mais: [Classes](https://dart.dev/language/classes)
 #### <li>5º projeto: Criação de listas utilizando métodos e o loop forEach para percorrer a lista futurama.
 #### 🔎 Saiba mais: [Collections](https://dart.dev/language/classes)
 #### <li>6º projeto: Criação de mapas que diferente das listas, possuem um par de chave-valor, sendo que a chave deve ser única.
 #### <li>7º projeto: Programa que gerencia e imprime as notas dos alunos em diferentes matérias. A lista define os alunos e o Map armazena as notas de cada matéria, seguidas da situação de aprovação ou reprovação.
-
-
+#### <li>8º projeto: Uso de enum para organizar tipos fixos de matérias com seus salários associados. Três professores são instanciados com diferentes matérias e o método verificar() detalha cada professor usando um bloco de switch case para exibir nome, matéria e salário.
+#### 🔎 Saiba mais: [Enums](https://dart.dev/language/enums))
