@@ -15,3 +15,5 @@
 #### <li>7º projeto: Programa que gerencia e imprime as notas dos alunos em diferentes matérias. A lista define os alunos e o Map armazena as notas de cada matéria, seguidas da situação de aprovação ou reprovação.
 #### <li>8º projeto: Uso de enum para organizar tipos fixos de matérias com seus salários associados. Três professores são instanciados com diferentes matérias e o método verificar() detalha cada professor usando um bloco de switch case para exibir nome, matéria e salário.
 #### 🔎 Saiba mais: [Enums](https://dart.dev/language/enums)
+#### <li>9º projeto: Criação da classe Funcionario e seus atributos. Foi implementado um getter para calcular a idade com base na data atual (DateTime.now()), incluindo uma verificação condicional para corrigir a idade caso o aniversário ainda não tenha ocorrido.
+#### 🔎 Saiba mais: [Date](https://api.dart.dev/dart-core/DateTime-class.html)
