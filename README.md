@@ -17,3 +17,5 @@
 #### 🔎 Saiba mais: [Enums](https://dart.dev/language/enums)
 #### <li>9º projeto: Criação da classe Funcionario e seus atributos. Foi implementado um getter para calcular a idade com base na data atual (DateTime.now()), incluindo uma verificação condicional para corrigir a idade caso o aniversário ainda não tenha ocorrido.
 #### 🔎 Saiba mais: [Date](https://api.dart.dev/dart-core/DateTime-class.html)
+#### <li>10º projeto: Implementação do mixin Visualizacao nas classes Aluno e Professor com adição de métodos para atribuição e edição de notas exclusivas da classe Professor.
+#### 🔎 Saiba mais: [Mixins](https://dart.dev/language/mixins)
