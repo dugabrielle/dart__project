@@ -5,7 +5,14 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "dart__project",
+            "name": "1_project",
+            "cwd": "1_project",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "2_project",
+            "cwd": "2_project",
             "request": "launch",
             "type": "dart"
         }
