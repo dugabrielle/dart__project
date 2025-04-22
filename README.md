@@ -19,3 +19,5 @@
 #### 🔎 Saiba mais: [Date](https://api.dart.dev/dart-core/DateTime-class.html)
 #### <li>10º projeto: Implementação do mixin Visualizacao nas classes Aluno e Professor com adição de métodos para atribuição e edição de notas exclusivas da classe Professor.
 #### 🔎 Saiba mais: [Mixins](https://dart.dev/language/mixins)
+#### <li>11º projeto: Implementação da classe Person com atributos privados e a utilização de getters para acessar esses atributos ou o método <code>asMap()</code> que converte os dados da classe em um mapa.
+#### 🔎 Saiba mais: [asMap](https://api.dart.dev/dart-core/List/asMap.html)
